@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 05 Multi Screen App</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_phone">Phone</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_add">Add</string>
+    <string name="action_update">Update</string>
+</resources>
